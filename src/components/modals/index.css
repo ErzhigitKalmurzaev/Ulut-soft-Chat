@@ -1,0 +1,27 @@
+.input-block {
+    width: 100%;
+}
+
+.input-block label {
+    color: white;
+}
+
+.input-block input {
+    color: white;
+}
+
+.input-block .css-cv41kj-MuiInputBase-root-MuiInput-root:after {
+    border-bottom: 2px solid #2f7070;
+}
+
+.input-block .css-cv41kj-MuiInputBase-root-MuiInput-root::before {
+    border-bottom: 1px solid #2f7070;
+}
+
+.input-block .css-cv41kj-MuiInputBase-root-MuiInput-root::before:hover {
+    border-bottom: 1px solid #2f7070;
+}
+
+.input-block .css-1o0voyd-MuiFormLabel-root-MuiInputLabel-root.Mui-focused {
+    color: #2f7070;
+}

@@ -1,0 +1,36 @@
+.example-block {
+    width: 180px;
+    height: 120px;
+    border-radius: 20px;
+    padding: 15px;
+    border: 1px solid #676767;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+
+.example-block:hover {
+    background-color: #203a3b;
+}
+
+.example-block p {
+    font-size: 15px;
+    color: #cbc8c8;
+}
+
+.chat-wrapper {
+    width: 80%;
+    margin: 0 auto;
+    /* border: 1px solid white; */
+}
+
+.my-message {
+    max-width: 50%;
+    background-color: #2f4b4b;
+    border-radius: 10px;
+    margin-left: auto;
+    padding: 8px;
+    margin-bottom: 10px 15px;
+}
+.my-message p {
+    font-size: 15px;
+}
